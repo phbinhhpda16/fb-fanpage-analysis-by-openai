@@ -13,13 +13,11 @@ The main components of this project are as follows:
 ## Repository Structure
 The repository has the following structure:
 
-```
 - fb-fanpage-analysis-by-openai-intergration.ipynb      # Python script for cleaning data obtained from the Facebook API and integrating the OpenAI Chatbot API
 - README.md             # This file, providing an overview of the project
-```
 
 ## Usage
-To use the #fb-fanpage-analysis-by-openai-intergration.ipynb notebook for Facebook fan page analysis with OpenAI integration, follow these steps:
+To use the **fb-fanpage-analysis-by-openai-intergration.ipynb** notebook for Facebook fan page analysis with OpenAI integration, follow these steps:
 
 1. Set up the Facebook API: Obtain the necessary API credentials and access tokens from the Facebook Developers platform. Ensure that the permissions granted allow access to the desired fan page's data.
 
